@@ -482,14 +482,3 @@ export default function ProductDetailPage({ params }: ProductDetailPageProps) {
     </div>
   )
 }
-
-// 静态导出所有产品ID页面
-export async function generateStaticParams() {
-  // 这里返回所有产品id的数组
-  // 假设你的产品id有 ['cargo-pro', 'passenger-deluxe', 'urban-rider']
-  return [
-    { id: 'cargo-pro' },
-    { id: 'passenger-deluxe' },
-    { id: 'urban-rider' }
-  ]
-}
