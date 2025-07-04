@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage -->
+  <url>
+    <loc>https://etrikefox.com/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://etrikefox.com/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cn.etrikefox.com/" />
+  </url>
+  
+  <!-- Products Page -->
+  <url>
+    <loc>https://etrikefox.com/products</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://etrikefox.com/products" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cn.etrikefox.com/products" />
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://etrikefox.com/about</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://etrikefox.com/about" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cn.etrikefox.com/about" />
+  </url>
+  
+  <!-- Product Detail Pages -->
+  <url>
+    <loc>https://etrikefox.com/products/cargo-pro</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://etrikefox.com/products/cargo-pro" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cn.etrikefox.com/products/cargo-pro" />
+  </url>
+  
+  <url>
+    <loc>https://etrikefox.com/products/cargo-standard</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://etrikefox.com/products/cargo-standard" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cn.etrikefox.com/products/cargo-standard" />
+  </url>
+  
+  <url>
+    <loc>https://etrikefox.com/products/passenger-deluxe</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://etrikefox.com/products/passenger-deluxe" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cn.etrikefox.com/products/passenger-deluxe" />
+  </url>
+  
+  <url>
+    <loc>https://etrikefox.com/products/urban-rider</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://etrikefox.com/products/urban-rider" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://cn.etrikefox.com/products/urban-rider" />
+  </url>
+</urlset>
